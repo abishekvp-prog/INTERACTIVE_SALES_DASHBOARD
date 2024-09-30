@@ -20,9 +20,9 @@ This project involves the creation of an interactive sales dashboard using Googl
 
 ### Instructions
 1. **Access the Dashboard**: 
-   Click [here](link_to_your_google_data_studio_dashboard) to view the interactive sales dashboard.
+   Click [here](https://lookerstudio.google.com/s/nRY4eOA1CS4)) to view the interactive sales dashboard.
 
 2. **Clone the Repository**: 
    To clone this repository to your local machine, run the following command:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/abishekvp-prog/INTERACTIVE_SALES_DASHBOARD.git
